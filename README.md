@@ -8,11 +8,13 @@ See [conan docs](http://docs.conan.io/en/latest/) for detailed instructions in h
 
 For instructions about the library see [the repository](https://github.com/open-source-parsers/json).
 
+**NOTE:** All credits about the library go to its [authors](https://github.com/open-source-parsers/json#license). This package is only intended to help its use with conan (i am just a user of both). Feel free to use or change it. You can also open an issue or send a pull-request.  
+
 ## Quickstart
 
 You can use the 'test_package' as a sample in how to use this library with conan or follow instructions below.
 
-### Install conan.io
+### Install conan
 
 Detailed instructions [here](http://docs.conan.io/en/latest/installation.html)
 
