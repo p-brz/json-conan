@@ -3,6 +3,13 @@ from conans import tools
 import platform, os, sys
 from os import path
 
+'''
+    Conanfile for c++ json(https://github.com/open-source-parsers/json/).
+
+    See their repository for info about the library.
+
+    Some instructions in how to integrate the library can be found on README(https://github.com/paulobrizolara/json-conan)
+'''
 class JsonConan(ConanFile):
     name = "json"
     version = "1.0.0"
